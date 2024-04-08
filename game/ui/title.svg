@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90mm"
+   height="12mm"
+   viewBox="0 0 90 12"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="title.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51150168"
+     inkscape:cx="-462.36407"
+     inkscape:cy="-57.67332"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8322"
+       transform="translate(0.93031457)"
+       inkscape:export-filename="C:\Users\Colin\Documents\Git\Asteroids-3DS\ui\title.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583"
+         x="73.480881"
+         y="9.8472977"
+         id="text1058"><tspan
+           sodipodi:role="line"
+           id="tspan1056"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke:#ffffff;stroke-width:0.264583"
+           x="73.480881"
+           y="9.8472977">DS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583"
+         x="65.982727"
+         y="9.8472977"
+         id="text3244"><tspan
+           sodipodi:role="line"
+           id="tspan3242"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.264583"
+           x="65.982727"
+           y="9.8472977">3</tspan></text>
+      <g
+         id="g4145"
+         transform="matrix(0.62639284,0,0,0.63230277,-5.8377483,-56.828128)"
+         style="stroke-width:1.58896">
+        <path
+           id="rect3798"
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.794482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 104.07695,91.187105 c -0.64594,0 -1.16634,0.519885 -1.16634,1.165821 v 5.349028 c 0,0.645935 0.5204,1.166336 1.16634,1.166336 h 8.27495 c 0.64593,0 1.16582,-0.520401 1.16582,-1.166336 v -5.349028 c 0,-0.645936 -0.51989,-1.165821 -1.16582,-1.165821 z m 0.96376,1.577166 h 6.3469 c 0.22996,0 0.41548,0.185525 0.41548,0.415478 v 3.695898 c 0,0.229955 -0.18552,0.414962 -0.41548,0.414962 h -6.3469 c -0.22995,0 -0.41496,-0.185007 -0.41496,-0.414962 v -3.695898 c 0,-0.229953 0.18501,-0.415478 0.41496,-0.415478 z" />
+        <path
+           id="rect3798-9"
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.794482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 104.07695,99.859693 c -0.64594,0 -1.16634,0.519887 -1.16634,1.165817 v 5.34903 c 0,0.64594 0.5204,1.16634 1.16634,1.16634 h 8.27495 c 0.64593,0 1.16582,-0.5204 1.16582,-1.16634 v -5.34903 c 0,-0.64593 -0.51989,-1.165817 -1.16582,-1.165817 z m 0.96376,1.577167 h 6.3469 c 0.22996,0 0.41548,0.18552 0.41548,0.41548 v 3.69589 c 0,0.22996 -0.18552,0.41497 -0.41548,0.41497 h -6.3469 c -0.22995,0 -0.41496,-0.18501 -0.41496,-0.41497 v -3.69589 c 0,-0.22996 0.18501,-0.41548 0.41496,-0.41548 z" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-4.4408921e-16"
+         y="9.4342804"
+         id="text4413"><tspan
+           sodipodi:role="line"
+           id="tspan4411"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="-4.4408921e-16"
+           y="9.4342804">Asteroid</tspan></text>
+    </g>
+  </g>
+</svg>
