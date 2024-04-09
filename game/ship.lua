@@ -15,7 +15,9 @@ function update(display, dt, scene, vessel)
     local joystick = love.joystick.getJoysticks()[1]
 
     -- Rotation
-    local circlepad = joystick:getAxis(1)
+    local circlepad_x, circlepad_y = joystick:getAxes() 
+    local circlepad = 0
+    if (math.abs(circlepad_x) > math.abs(circlepad_y)) then circlepad = circlepad_x else circlepad = circlepad_y end
     if (math.abs(circlepad) < 0.1) then circlepad = 0 end -- deadzone
     local dpad = 0
     if joystick:isGamepadDown("dpleft") then dpad = -1 end
