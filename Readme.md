@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./icon.3ds.png">  
+</div>
+
 # Asteroid 3DS
 An asteroids clone for Nintendo 3DS Homebrew programmed in the Love game engine using [lovepotion](https://github.com/lovebrew/lovepotion). Artwork courtesy of [Kenny's](https://kenney.nl/assets) CC0 game asset collections with some modifications and some original works too.
 
