@@ -22,8 +22,8 @@ Steer using the CirclePad or using the D-Pad left and right. Use A to accelerate
 </thead>
 <tbody>
     <tr>
-        <td><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
-        <td><img src="screenshot/2024-04-09_21-17-58.390_top.bmp"><br><img src="screenshot/2024-04-09_21-17-58.390_bot.bmp"></td>
+        <td style="text-align: center;"><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
+        <td style="text-align: center;"><img src="screenshot/2024-04-09_21-17-58.390_top.bmp"><br><img src="screenshot/2024-04-09_21-17-58.390_bot.bmp"></td>
     </tr>
 </tbody>
 </table>
