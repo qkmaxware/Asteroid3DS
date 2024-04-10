@@ -17,13 +17,15 @@ Steer using the CirclePad or using the D-Pad left and right. Use A to accelerate
 
 <table style="text-align: center; width: 100%;">
 <thead>
-    <th style="text-align: center;">Main Menu</th>
-    <th style="text-align: center;">Gameplay</th>
+    <tr>
+        <th style="text-align: center;">Main Menu</th>
+        <th style="text-align: center;">Gameplay</th>
+    </tr>
 </thead>
 <tbody>
     <tr>
-        <td style="text-align: center;"><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
-        <td style="text-align: center;"><img src="screenshot/2024-04-09_21-17-58.390_top.bmp"><br><img src="screenshot/2024-04-09_21-17-58.390_bot.bmp"></td>
+        <td align="center"><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
+        <td align="center"><img src="screenshot/2024-04-09_21-17-58.390_top.bmp"><br><img src="screenshot/2024-04-09_21-17-58.390_bot.bmp"></td>
     </tr>
 </tbody>
 </table>
