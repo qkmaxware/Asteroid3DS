@@ -10,3 +10,12 @@ An asteroids clone for Nintendo 3DS Homebrew programmed in the Love game engine 
 
 ## How to Play
 Steer using the CirclePad or using the D-Pad left and right. Use A to accelerate your ship. Use L, R, or Y to shoot. Try to destroy all the asteroids on the screen without getting hit. 
+
+<table style="text-align: center; width: 100%;">
+<tbody>
+    <tr>
+        <td><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
+        <td><img src="screenshot/2024-04-09_21-17-58.390_top.bmp"><br><img src="screenshot/2024-04-09_21-17-58.390_bot.bmp"></td>
+    </tr>
+</tbody>
+</table>
