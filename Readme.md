@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./icon.3ds.png">  
+</div>
+
 # Asteroid 3DS
 An asteroids clone for Nintendo 3DS Homebrew programmed in the Love game engine using [lovepotion](https://github.com/lovebrew/lovepotion). Artwork courtesy of [Kenny's](https://kenney.nl/assets) CC0 game asset collections with some modifications and some original works too.
 
@@ -12,6 +16,10 @@ An asteroids clone for Nintendo 3DS Homebrew programmed in the Love game engine 
 Steer using the CirclePad or using the D-Pad left and right. Use A to accelerate your ship. Use L, R, or Y to shoot. Try to destroy all the asteroids on the screen without getting hit. 
 
 <table style="text-align: center; width: 100%;">
+<thead>
+    <th style="text-align: center;">Main Menu</th>
+    <th style="text-align: center;">Gameplay</th>
+</thead>
 <tbody>
     <tr>
         <td><img src="screenshot/2024-04-09_21-17-24.866_top.bmp"><br><img src="screenshot/2024-04-09_21-17-24.866_bot.bmp"></td>
